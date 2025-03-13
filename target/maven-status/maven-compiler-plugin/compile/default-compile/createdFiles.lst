@@ -1,0 +1,3 @@
+com\automacao\petstore\App.class
+com\automacao\petstore\models\Order.class
+com\automacao\petstore\models\OrderStatus.class
